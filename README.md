@@ -1,2 +1,2 @@
-# odin-recipes
+# project2
 demo project
